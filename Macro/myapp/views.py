@@ -1,3 +1,9 @@
 from django.shortcuts import render
 
-# Create your views here.
+from  myapp.models import Food
+
+
+
+def index(request):
+    foods  = Food.objects.all()
+    return render(request, 'myapp/index.html', {'foods': foods})
