@@ -6,12 +6,12 @@
 *** you can set a amount for your dairy calorie   </br>   </br> 
 ***  This application uses these languages and packages:  
  </br>
-python  </br>
-django  </br>
-html  </br>
-css </br>
-java </br>
-chartjs  </br>
+--python  </br>
+--django  </br>
+--html  </br>
+--css </br>
+--java </br>
+--chartjs  </br>
 
 ***  Preview of application:
 ![image](https://user-images.githubusercontent.com/56727121/192528771-bdc04c7a-1784-4cbc-b165-ba418eaff26b.png)
